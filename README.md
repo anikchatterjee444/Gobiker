@@ -1,4 +1,4 @@
-# GoBiker 🚴‍♂️
+# GoBiker 
 
 # Smart Bike Service & Garage Management Platform
 
